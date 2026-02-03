@@ -20,8 +20,8 @@ API desenvolvida em NestJS para processamento de logs de partidas, geração de 
   - score
   - maior sequência de frags (kill streak)
 - Sistema de awards:
-  - **NoDeathAward** — jogador venceu a partida sem morrer
-  - **SpeedKillerAward** — 5 frags em até 1 minuto
+  - NoDeathAward — jogador venceu a partida sem morrer
+  - SpeedKillerAward — 5 frags em até 1 minuto
 - Documentação via Swagger
 - Autenticação simples via Bearer Token
 - Setup automatizado com Docker
@@ -41,7 +41,7 @@ API desenvolvida em NestJS para processamento de logs de partidas, geração de 
 
 ## Autenticação
 
-A API é protegida por um **Bearer Token estático**, configurado via variável de ambiente.
+A API é protegida por um Bearer Token estático, configurado via variável de ambiente.
 
 ## Como rodar o projeto
 
@@ -75,10 +75,10 @@ API: http://localhost:3000
 Swagger: http://localhost:3000/api/docs
 
 ### Documentação (Swagger)
+https://fps-ranking-api.onrender.com
 
 A documentação interativa da API está disponível em:
-http://localhost:3000/api/docs
-
+https://fps-ranking-api.onrender.com/api/docs
 
 ### Exemplo de log suportado
 
