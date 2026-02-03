@@ -69,13 +69,10 @@ docker compose up --build
 ```
 
 ### A aplicação estará disponível em:
-
-API: http://localhost:3000
-
-Swagger: http://localhost:3000/api/docs
+ 
+API: https://fps-ranking-api.onrender.com
 
 ### Documentação (Swagger)
-https://fps-ranking-api.onrender.com
 
 A documentação interativa da API está disponível em:
 https://fps-ranking-api.onrender.com/api/docs
